@@ -1,6 +1,6 @@
- @inproceedings{slizovskaia2020conditioned,
-   title = {Conditioned Source Separation for Music Instrument Performances},
-   author = {Slizovskaia, Olga and Haro, Gloria and G{\'o}mez Emilia},
+ @inproceedings{petermann2021spainnet,
+   title = {SPAIN-NET: Spatially-Informed Stereophonic Music Source Separation},
+   author = {Petermann, Darius and Kim, Minje},
    booktitle = {tba},
-   year = {2020}
+   year = {2021}
  }
